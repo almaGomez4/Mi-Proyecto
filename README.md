@@ -8,18 +8,25 @@ automáticamente en la interfaz sin recargar la página, evitando errores y mejo
 
 ## Requerimientos Funcionales (El “Qué hace”)
 RF1: Visualizar el catálogo de pinturas para el cabello con su nombre, color y precio.
+
 RF2: Filtrar los productos por color o marca de forma interactiva.
+
 RF3: Registrar productos en un carrito de compras.
+
 RF4: Editar el carrito de compras permitiendo agregar o quitar productos.
+
 RF5: Visualizar el total de la compra actualizado automáticamente sin recargar la página.
 
 ## Requerimientos no funcionales
 Adaptabilidad:
 La aplicación debe adaptarse a diferentes tamaños de pantalla usando CSS básico para que se vea correctamente en celular y computadora.
+
 Rendimiento:
 La aplicación debe mostrar y actualizar la información sin recargar la página, usando la reactividad del framework.
+
 Persistencia:
 La aplicación debe conservar los productos agregados al carrito durante la sesión del usuario usando LocalStorage.
+
 Accesibilidad:
 La aplicación debe usar etiquetas HTML simples y textos claros para facilitar su uso por cualquier persona.
 
@@ -40,6 +47,8 @@ Despliegue
 Herramienta: Vercel
 ¿Por qué?: Es muy fácil para mi proyecto de React/Vite: conectas GitHub y se publica en pocos clics.
 
+
+<img width="2650" height="5420" alt="Catalog and Cart Flow-2026-01-19-203023" src="https://github.com/user-attachments/assets/46023150-0764-4521-9ac8-bc8c84566df0" />
 
 
 
