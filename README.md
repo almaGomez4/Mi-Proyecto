@@ -22,3 +22,24 @@ Persistencia:
 La aplicación debe conservar los productos agregados al carrito durante la sesión del usuario usando LocalStorage.
 Accesibilidad:
 La aplicación debe usar etiquetas HTML simples y textos claros para facilitar su uso por cualquier persona.
+
+## Tecnologias y herramientas del ecosistema
+Manejo de Estado Global
+Herramienta: Context API
+¿Por qué?: Es la opción más fácil en React para compartir datos (como el carrito) entre componentes sin instalar librerías extra como Redux.
+Consumo de Datos
+
+Herramienta: Fetch API
+¿De dónde vienen los datos?: De un archivo local tipo products.json (o un arreglo en un archivo .js) dentro de mi proyecto.
+¿Por qué?: Es más simple para iniciar: no necesitamos backend, y Fetch es nativo del navegador.
+
+Herramienta: CSS básico
+¿Por qué?: Se utilizará CSS básico para dar estilo a la aplicación, permitiendo crear un diseño sencillo, ordenado y responsive sin necesidad de librerías externas, facilitando su implementación.
+
+Despliegue
+Herramienta: Vercel
+¿Por qué?: Es muy fácil para mi proyecto de React/Vite: conectas GitHub y se publica en pocos clics.
+
+
+
+
