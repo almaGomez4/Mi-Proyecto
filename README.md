@@ -47,8 +47,8 @@ Despliegue
 Herramienta: Vercel
 ¿Por qué?: Es muy fácil para mi proyecto de React/Vite: conectas GitHub y se publica en pocos clics.
 
+<img width="2650" height="5420" alt="Catalog and Cart Flow-2026-01-19-203155" src="https://github.com/user-attachments/assets/4ef87c7c-9314-44a5-9dda-cc5a6e075873" />
 
-<img width="2650" height="5420" alt="Catalog and Cart Flow-2026-01-19-203023" src="https://github.com/user-attachments/assets/46023150-0764-4521-9ac8-bc8c84566df0" />
 
 
 
